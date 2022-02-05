@@ -48,15 +48,91 @@ For more information, see the table in the [Readings]({{< baseurl >}}/pages/read
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Attendance and participation in all classes {{< br >}}{{< br >}} _Note: Participation means offering questions and comments in every class. If you don't like to talk, use the opening discussion period and your weekly writing to help you prepare something. Attention to each other is essential for this--laptops and phones should not be out unless we are doing research or reading online texts  {{< br >}}_ {{< br >}}{{< br >}}  | 10% |
-| Two written weekly questions / comments | 10% |
-| Using your weekly questions / comments to direct the beginning of class discussion | 5% |
-| Paper 1 (5 pages, 1250 words) | 25% |
-| Paper 2 (5 pages, 1250 words) | 20% |
-| Paper 3 (5 pages, 1250 words) | 15% |
-| Group Presentation | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Attendance and participation in all classes
+
+_Note: Participation means offering questions and comments in every class. If you don't like to talk, use the opening discussion period and your weekly writing to help you prepare something. Attention to each other is essential for this--laptops and phones should not be out unless we are doing research or reading online texts  
+_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two written weekly questions / comments
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Using your weekly questions / comments to direct the beginning of class discussion
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1 (5 pages, 1250 words)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2 (5 pages, 1250 words)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3 (5 pages, 1250 words)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For more information on the activities in the table above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
